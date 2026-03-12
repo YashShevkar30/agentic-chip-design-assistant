@@ -1,0 +1,5 @@
+langchain
+torch
+faiss-cpu
+pinecone-client
+transformers
